@@ -1,1 +1,1 @@
-# This is my first prḁctice repo
+# This is my first practice repo
